@@ -7,6 +7,7 @@ public class Submenu extends javax.swing.JFrame {
 
     public Submenu() {
         initComponents();
+        setTitle("Menu principal");
         this.setLocationRelativeTo(this);
     }
 
