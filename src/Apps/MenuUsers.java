@@ -20,6 +20,7 @@ public class MenuUsers extends javax.swing.JFrame {
     public MenuUsers() {
         initComponents();
         this.setLocationRelativeTo(this);
+        setTitle("Admin de usuarios");
         txtID.setVisible(false);
         buscar();
     }
