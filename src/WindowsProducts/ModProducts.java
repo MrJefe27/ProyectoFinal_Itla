@@ -21,7 +21,7 @@ public class ModProducts extends javax.swing.JFrame {
         txtID.setVisible(false);
         this.setLocationRelativeTo(this);
         con = Conexion.getConnection();
-        setTitle("Formulario de registro"); 
+        setTitle("Informacion del producto"); 
     }
     
         public void limpiartabla(){
